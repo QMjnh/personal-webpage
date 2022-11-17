@@ -4,6 +4,6 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - webpage_source.md
+  - index.md
 
 theme: jekyll-theme-tactile
