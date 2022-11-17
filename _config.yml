@@ -6,4 +6,4 @@ relative_links:
 include:
   - index.md
 
-theme: just-the-docs
+#theme: jekyll-theme-tactile
