@@ -42,6 +42,7 @@ summary of this site's content is in this pdf: [CV_QMinh_06Nov](https://qmjnh.gi
 As a Data Science Mentee, I got the chance to make new friends, to work and learn from great mentors working in big-tech companies or doing research at universities across the world.
 
 ![](https://i.imgur.com/hVL7WXw.png)
+
 I got the chance to learn about Maths & Statistics, combine with what I've known in Artificial Intelligence, implemented in practice to form Data Science
 
 ### Projects
